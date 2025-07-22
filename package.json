@@ -1,0 +1,24 @@
+{
+  "name": "gulp-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "dev": "gulp",
+    "sass": "gulp sass"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "postcss-pxtorem": "^6.0.0",
+    "sass": "^1.62.1"
+  },
+  "devDependencies": {
+    "critical": "^7.2.1"
+  }
+}
